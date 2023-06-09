@@ -1,4 +1,4 @@
-import { ChainId, JSBI, Percent, Token, WETH } from '@pancakeswap-libs/sdk'
+import { ChainId, JSBI, Percent, Token, WETH } from 'aqua-protocol-sdk'
 
 export const ROUTER_ADDRESS = '0x711BB3d445c3Abb1fc9C52c6d8dce2aB7Bd3b845'// '0x711BB3d445c3Abb1fc9C52c6d8dce2aB7Bd3b845'
 

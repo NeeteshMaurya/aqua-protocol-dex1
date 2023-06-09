@@ -1,4 +1,4 @@
-import { currencyEquals, Trade } from '@pancakeswap-libs/sdk'
+import { currencyEquals, Trade } from 'aqua-protocol-sdk'
 import React, { useCallback, useMemo } from 'react'
 import TransactionConfirmationModal, {
   ConfirmationModalContent,
